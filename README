@@ -1,0 +1,10 @@
+Russ
+====
+
+An example scraper
+
+
+Prerequisites
+-------------
+
+  python3 -m pip install beautifulsoup4
